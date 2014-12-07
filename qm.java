@@ -1,6 +1,5 @@
 /*
  * Name - Sunny Narayan
- * Roll - 1301CS43
  * Problem - minimization using Quine MacCloskey method...
  */
 
